@@ -1,0 +1,7 @@
+{
+  "name": "dashboardsalestools",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
